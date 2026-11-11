@@ -2,7 +2,7 @@
 author: Sat Naing
 pubDatetime: 2026-11-10
 modDatetime: 2026-11-10
-title: Adding new posts in AstroPaper theme
+title: mArfo Arquitectura Diseño y Construcción
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
